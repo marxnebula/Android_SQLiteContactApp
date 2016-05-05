@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySQLiteExample</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="contactbutton">Add Contact</string>
+    <string name="deletebutton">Delete All Contacts</string>
+    <string name="name">Name</string>
+    <string name="phonenumber">Phone Number</string>
+
+</resources>
